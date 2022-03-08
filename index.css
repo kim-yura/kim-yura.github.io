@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color: #F5F5F5;
+    min-width: 1000px;
 }
 
 h1 {
@@ -53,7 +54,7 @@ li {
     background-color: #DF744A;
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 240px;
     min-height: 100vh;
     height: 100%;
     text-align: center;
@@ -84,8 +85,8 @@ li {
     width: 80%;
     padding-top: 52px;
     padding-bottom: 60px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
     display: flex;
     flex-direction: row;
     column-gap: 60px;
