@@ -104,6 +104,10 @@ li {
     align-content: center;
 }
 
+#splash-text>p {
+    text-align: justify;
+}
+
 /* --------------- ABOUT ME --------------- */
 
 #about-me-container {
