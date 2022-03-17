@@ -156,6 +156,15 @@ li {
     color: #F5F5F5;
 }
 
+#link-to-knitboop {
+    color: #ca6035;
+    font-weight: bold;
+}
+
+#link-to-knitboop:hover {
+    text-shadow: 0 0 6px #a14b29;
+}
+
 /* --------------- WORK --------------- */
 
 #work-container {
