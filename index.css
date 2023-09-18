@@ -84,7 +84,6 @@ li {
 #splash-profile {
     width: 80%;
     padding-top: 52px;
-    padding-bottom: 60px;
     padding-left: 10%;
     padding-right: 10%;
     display: flex;
@@ -105,7 +104,13 @@ li {
 }
 
 #splash-text>p {
-    text-align: justify;
+    text-align: left;
+}
+
+#splash-bottom-text {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 60px;
 }
 
 /* --------------- ABOUT ME --------------- */
